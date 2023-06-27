@@ -26,7 +26,7 @@ https://docs.google.com/document/d/12Bf73gmyY5JWG3clTj8IKoNIQ_QjBl_d/edit?usp=sh
 
 • Тест-кейсы созданы с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1KFP8AjHIrSuj2tJ2-HgrX4FZ-UjAjg3ANCnViOMJ9kY/edit?usp=sharing
 
-• Были написаны автотесты.
+• Были написаны автотесты на языке Python, с применением Page-object паттерна.
 
 • Для тестирования фукнционала сайта был использована библиотека Selenium.
 
